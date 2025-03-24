@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/atg-new-page/static/css/main.5f648bf4.css",
+    "main.js": "/atg-new-page/static/js/main.0a366e09.js",
+    "static/js/453.19a2578a.chunk.js": "/atg-new-page/static/js/453.19a2578a.chunk.js",
+    "static/media/nexgtv-mobile-app-ui-design.png": "/atg-new-page/static/media/nexgtv-mobile-app-ui-design.e6be7e62e03296e36af5.png",
+    "static/media/nexgtv-entertainment-mobile-app-development.png": "/atg-new-page/static/media/nexgtv-entertainment-mobile-app-development.967e599dae4208336bda.png",
+    "static/media/melltoo-img2.png": "/atg-new-page/static/media/melltoo-img2.1c3983ef4eaec513a5a9.png",
+    "static/media/erp-app-development-service.png": "/atg-new-page/static/media/erp-app-development-service.5215dff016d71dd50ae2.png",
+    "static/media/veme-app-ui-design.png": "/atg-new-page/static/media/veme-app-ui-design.a2b88dd7c69ed26bad68.png",
+    "static/media/nasa-fitness-tracking-mobile-app.png": "/atg-new-page/static/media/nasa-fitness-tracking-mobile-app.a097d14f0d97e72c07ca.png",
+    "static/media/melltoo-img1.png": "/atg-new-page/static/media/melltoo-img1.d4ad151be6f1b1001134.png",
+    "static/media/domi-img1.png": "/atg-new-page/static/media/domi-img1.0db5502e10ffc9f95c73.png",
+    "static/media/veme-blockchain-app-developed.png": "/atg-new-page/static/media/veme-blockchain-app-developed.e1fbdcb093d148d0c4d0.png",
+    "static/media/ux-strategy-for-mobile-app-devlopment.png": "/atg-new-page/static/media/ux-strategy-for-mobile-app-devlopment.5f7f048ebf6cae61a59f.png",
+    "static/media/social-networking-app-case-study.png": "/atg-new-page/static/media/social-networking-app-case-study.351cc80cf46ea399661f.png",
+    "static/media/karavan_2.png": "/atg-new-page/static/media/karavan_2.fb313ef81a6f97dc713b.png",
+    "static/media/karavan-social-networking-app-screen-2.png": "/atg-new-page/static/media/karavan-social-networking-app-screen-2.f43cb0271bd95a3047ab.png",
+    "static/media/dominos-bread1.png": "/atg-new-page/static/media/dominos-bread1.b9e4ec54131668b81f2f.png",
+    "static/media/pizza_box.png": "/atg-new-page/static/media/pizza_box.0dd9fc639d051ac4e547.png",
+    "static/media/measure-total-body-weight-through-fitness-app.png": "/atg-new-page/static/media/measure-total-body-weight-through-fitness-app.e9e087f3640c36e03f58.png",
+    "static/media/interior.jpg": "/atg-new-page/static/media/interior.517d8641d678eb8e3fc8.jpg",
+    "static/media/karavan-social-networking-app-screen.png": "/atg-new-page/static/media/karavan-social-networking-app-screen.e2b53c772192457b11d0.png",
+    "index.html": "/atg-new-page/index.html",
+    "static/media/arrow-icon.svg": "/atg-new-page/static/media/arrow-icon.6b85b2e8671f5881fccc7d49f64f096d.svg",
+    "main.5f648bf4.css.map": "/atg-new-page/static/css/main.5f648bf4.css.map",
+    "main.0a366e09.js.map": "/atg-new-page/static/js/main.0a366e09.js.map",
+    "453.19a2578a.chunk.js.map": "/atg-new-page/static/js/453.19a2578a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f648bf4.css",
+    "static/js/main.0a366e09.js"
+  ]
+}
