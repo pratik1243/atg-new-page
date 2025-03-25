@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import { AnimateContext } from "../App";
+import slideImg18 from "../assets/images/nasa-mobile-app.png";
 
 const TextAnimateSection = () => {
   const {
@@ -112,7 +113,7 @@ const TextAnimateSection = () => {
                   : ""
               }`}
             >
-              blockchain
+              <img src={slideImg18} height={60} width={260} style={{ marginTop:"12px" }} />
             </span>
           </div>
           <div>

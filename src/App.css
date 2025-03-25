@@ -679,6 +679,7 @@ body {
 }
 
 .text-animate-reverse {
+  animation-delay: 0.5s !important;
   animation: 0.2s textAnim1 linear forwards;
 }
 
