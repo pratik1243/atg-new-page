@@ -746,6 +746,7 @@ body {
   cursor: pointer;
   display: flex;
   align-items: center;
+  color: #ffffffd9;
 }
 
 .left-link-btn img{
