@@ -754,6 +754,12 @@ body {
   margin-left: 6px;
 }
 
+.scroll-txt{
+  font-size: 14px;
+  color: #fff;
+  margin-left: 30px;
+}
+
 @media (max-width: 1300px) {
   .left-content-sec .stepper-sec {
     top: 33px;
