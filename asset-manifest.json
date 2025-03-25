@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/atg-new-page/static/css/main.8e5aa913.css",
-    "main.js": "/atg-new-page/static/js/main.11241d52.js",
+    "main.css": "/atg-new-page/static/css/main.3e21c55c.css",
+    "main.js": "/atg-new-page/static/js/main.9d11644e.js",
     "static/js/453.19a2578a.chunk.js": "/atg-new-page/static/js/453.19a2578a.chunk.js",
     "static/media/nexgtv-mobile-app-ui-design.png": "/atg-new-page/static/media/nexgtv-mobile-app-ui-design.e6be7e62e03296e36af5.png",
     "static/media/nexgtv-entertainment-mobile-app-development.png": "/atg-new-page/static/media/nexgtv-entertainment-mobile-app-development.967e599dae4208336bda.png",
@@ -23,12 +23,12 @@
     "static/media/karavan-social-networking-app-screen.png": "/atg-new-page/static/media/karavan-social-networking-app-screen.e2b53c772192457b11d0.png",
     "index.html": "/atg-new-page/index.html",
     "static/media/arrow-icon.svg": "/atg-new-page/static/media/arrow-icon.8a967e12fa8749385303d6ae2c1894e5.svg",
-    "main.8e5aa913.css.map": "/atg-new-page/static/css/main.8e5aa913.css.map",
-    "main.11241d52.js.map": "/atg-new-page/static/js/main.11241d52.js.map",
+    "main.3e21c55c.css.map": "/atg-new-page/static/css/main.3e21c55c.css.map",
+    "main.9d11644e.js.map": "/atg-new-page/static/js/main.9d11644e.js.map",
     "453.19a2578a.chunk.js.map": "/atg-new-page/static/js/453.19a2578a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e5aa913.css",
-    "static/js/main.11241d52.js"
+    "static/css/main.3e21c55c.css",
+    "static/js/main.9d11644e.js"
   ]
 }
