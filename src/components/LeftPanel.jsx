@@ -7,7 +7,7 @@ const LeftPanel = () => {
   return (
     <div className="left-panel">
       <div className="left-content-sec">
-        <p className="scroll-txt">Scroll to see magic</p>
+        <p className="scroll-txt">Scroll page to see magic</p>
         <TextAnimateSection />
         <TextAnimateSection1 />
         <Stepper />
